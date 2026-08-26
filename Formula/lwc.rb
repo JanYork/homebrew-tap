@@ -1,8 +1,8 @@
 class Lwc < Formula
   desc "Agent-driven proactive memory CLI for AI agents"
   homepage "https://github.com/JanYork/llm-wiki-cli"
-  url "https://github.com/JanYork/llm-wiki-cli/archive/refs/tags/v0.17.6.tar.gz"
-  sha256 "f7aff22c425403bdfd30500f282e9ed7026fe7ed5933bd8b8c63188c309fcff4"
+  url "https://github.com/JanYork/llm-wiki-cli/archive/refs/tags/v0.17.7.tar.gz"
+  sha256 "a13f16ee43ad3919b4b1d8d66bb7b1d86adde43db7163f210b9b9f21fee01f43"
   license "Apache-2.0"
   head "https://github.com/JanYork/llm-wiki-cli.git", branch: "main"
 
